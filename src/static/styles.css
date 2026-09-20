@@ -258,6 +258,14 @@ section h3 {
   max-height: 100px;
 }
 
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
+
 .participants-list li {
   padding: 2px 0;
   color: var(--text-secondary);
